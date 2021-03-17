@@ -15,25 +15,42 @@
       "photo": "https://onthewingsoflove.blob.core.windows.net/album/011816-Angela/1.jpg"
     },
     {
-      "name": "Alex",
-      "surname": "Solberry",
-      "sex": "male",
-      "age": 35,
-      "photo": "https://www.gv.com/img/team-large/john-lyman.jpg"
+      "name": "555",
+      "id": "0.36028602282682765"
     },
     {
-      "name": "Anna",
-      "surname": "Rayan",
-      "sex": "female",
-      "age": 23,
-      "photo": "https://pbs.twimg.com/profile_images/1127551365918679040/On8uLuSc.jpg"
+      "name": "Oleksa",
+      "id": "0.06580292338972904"
     },
     {
-      "name": "Michael",
-      "surname": "Dobkin",
-      "sex": "male",
-      "age": 30,
-      "photo": "https://wwwimage-secure.cbsstatic.com/thumbnails/photos/w425/cast/3b2b388f58aae2da_yr_michaelm_800x1000.jpg"
+      "name": "Alexa",
+      "age": "231313",
+      "id": "0.7353729748193114"
+    },
+    {
+      "name": "sas",
+      "age": "sasa",
+      "id": "0.10036151610468103"
+    },
+    {
+      "name": "Oleksa",
+      "age": "1212131",
+      "id": "0.7919271870093507"
+    },
+    {
+      "name": "ggg",
+      "age": "77",
+      "id": "0.7742286910118321"
+    },
+    {
+      "name": "gg",
+      "age": "77",
+      "id": "0.05112532547929394"
+    },
+    {
+      "name": "889",
+      "age": "909",
+      "id": "0.11510053115371399"
     }
   ]
 }
